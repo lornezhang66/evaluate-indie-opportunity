@@ -1,0 +1,13 @@
+interface:
+  display_name: "\u72EC\u7ACB\u673A\u4F1A\u8BC4\u4F30"
+  short_description: "\u7528\u8BC1\u636E\u3001Phase 0\u3001\u9996\u7B14\u4EA4\u6613\
+    \u4E0E\u505C\u6B62\u89C4\u5219\u8BC4\u4F30\u72EC\u7ACB\u4EA7\u54C1\u673A\u4F1A"
+  default_prompt: Use $evaluate-indie-opportunity to evaluate this idea and design
+    the cheapest decisive Phase 0 test.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
